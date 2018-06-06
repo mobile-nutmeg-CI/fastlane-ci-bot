@@ -1,0 +1,18 @@
+[
+  {
+    "id": "85c9dc77-55fb-460d-94ce-a31c0d82b342",
+    "email": "mobiledev@nutmeg.com",
+    "password_hash": "$2a$10$TlUT7JSIjoGPqOrTN9Djou5sQYCI6Nt5MNtSlu/kGI8aH0DBeTf9i",
+    "provider_credentials": [
+      {
+        "id": "f58b6b55-f171-4f5f-9e03-b8504711b628",
+        "email": "mobiledev@nutmeg.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "K/Qtj82JO8e3XDOr+9r9fuHbECQWbeRHdyPq2/FM7wgEbpw87LuwhbQ2f6Ff\navncIiKNwVkocMGt5nY1tRQeAA==\n"
+      }
+    ]
+  }
+]
